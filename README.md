@@ -1,4 +1,4 @@
-```markdown
+
 # Proyecto con NestJS y Prisma
 
 Este proyecto utiliza NestJS en el backend y Prisma como ORM para interactuar con una base de datos relacional. A continuación se explican los pasos para configurar y ejecutar el proyecto, así como inicializar las tablas en la base de datos usando Prisma.
@@ -149,4 +149,4 @@ export class UserService {
 
 - Autenticación de usuarios
 - Conexión a base de datos con Prisma
-```
+
