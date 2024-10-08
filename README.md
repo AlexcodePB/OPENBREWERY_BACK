@@ -14,5 +14,5 @@ Este proyecto utiliza **NestJS** en el backend y **Prisma** como ORM para intera
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/AlexcodePB/OPENBREWERY_BACK.git
 cd tu-repositorio
